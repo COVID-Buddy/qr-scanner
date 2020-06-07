@@ -1,7 +1,3 @@
-# [QR Scanner](https://qr.covidbuddysg.com)
-
-## LICENSE
-
 MIT License
 
 Copyright (c) 2020 COVID Buddy
